@@ -1,0 +1,39 @@
+1 tópico = descontrole das vagas / falta de segurança nos veículos
+
+-----------------------------------------------------------------------------------
+
+1 ideia = contador no sistema
+2 ideia = sensores de vaga (investimento alto)
+3 ideia = proteção de pilares para evitar batidas de porta (investimento baixo)
+4 ideia = contratação de segurança humana (guardas)
+5 ideia = sistema de alarme e monitoramento
+6 ideia = registro de placa 
+7 ideia = registro de entrada e saída (horário / ticket)
+8 ideia = cancelas automáticas 
+9 ideia = investimento em sem parar, ajudaria o fluxo do estacionamento ser mais rápido
+10 ideia = otimização do tamanhos das vagas 
+11 ideia = IA na ajuda de monitoramento
+12 ideia = investimento em iluminação do estacionamento
+13 ideia = placa sorria vc está sendo filmado
+14 ideia = espelhos convexos para evitar colisões
+15 ideia = registro por CPF para mensalistas 
+
+----------------------------------------------------------------------------------
+
+==TOP IDÉIAS
+
+5 ideia = sistema de alarme e monitoramento
+6 ideia = registro de placa
+7 ideia = registro de entrada e saída (horário / ticket)
+8 ideia = cancelas automáticas
+15 ideia = registro por CPF/CNPJ para mensalistas
+
+
+==ARQUITETURA
+
+13 ideia = placa sorria vc está sendo filmado
+14 ideia = espelhos convexos para evitar colisões
+12 ideia = investimento em iluminação do estacionamento
+8 ideia = cancelas automáticas
+2 ideia = sensores de vaga (investimento alto)
+3 ideia = proteção de pilares para evitar batidas de porta (investimento baixo)
